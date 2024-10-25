@@ -1,0 +1,8 @@
+/*
+Um tema no SMACSS tem o objetivo de afetar a aparência das páginas com cores e até mesmo diferentes fontes.
+Podemos ver esse caso de uso em sites de bancos tradicionais, onde há seguimentos de clientes, como convencional, private, exclusive etc. O site é o mesmo, a estrutura é a mesma, o que muda é o tema,  a identidade visual. Um exemplo prático são os sites da Globo, onde temos apenas a mudança do logo e cor de fundo nos cabeçalhos:
+*/
+.tema-a #header {
+    background-color: red;
+}
+
